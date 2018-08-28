@@ -13,7 +13,7 @@ class App extends Component {
     <Layout>
         <Header class="header-color" title="PROJECTS by David A. Epps" scroll>
             <Navigation>
-                <Route exact path={`/home`} render={ (routerProps) => < Main routerProps={routerProps} setUpGame={this.setUpGame} />} />
+                
                 <Link to="#introduction">Introduction</Link>
                 <Link to="#services">Services</Link>
 
