@@ -74,7 +74,7 @@ class Landing extends Component {
                         <p>
                           Through an early interest and study in computers and technology, I was able
                           to gain an understanding of basic electronics and the basis of machine
-                          language. This included courses in TurboPascal and DBASE, introductory
+                          language. This included taking courses in TurboPascal and DBASE, introductory
                           C and VisualBasic. I also completed certifications in CompTIA and MSCE.
                           Other core competencies in focus were critical thinking,
                           speech communications, and maths for programming.
@@ -167,7 +167,7 @@ class Landing extends Component {
 
                       <div className="banner-text4a">
 
-                        <p><a href="mailto:davidaepps@kineticlegacy.com?Subject=Portifolio%20page%20query...">davidaepps@kineticlegacy.com</a></p>
+                        <p>davidaepps@kineticlegacy.com</p>
 
                         <p>Location: West Metro/Denver/Golden, CO</p>
 
